@@ -73,7 +73,7 @@ All integrated into a Flask-powered web application.
 
 ## 📚 Dataset Info
 
-We used a customized dataset (`upload.csv`) that includes features like:
+We used a customized dataset 📄 [`upload.csv`](./upload.csv) that includes features like:
 - Nitrogen, Phosphorus, Potassium
 - Temperature, Humidity, Rainfall
 - Soil pH
@@ -84,9 +84,13 @@ The dataset is used for both crop recommendation and yield prediction.
 
 ## 🏅 Journal Publication
 
-This mini project is officially published in a recognized academic journal.  
-📝 *Refer to the attached certificate for details.*
+This mini project is officially published in a recognized academic journal. You can view the official proof of publication in the attached 📄 [Journal Certificate](./Journal_Certificate.pdf).
 
 ---
+
+
+
+
+
 
 
