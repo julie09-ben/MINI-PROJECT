@@ -84,7 +84,7 @@ The dataset is used for both crop recommendation and yield prediction.
 
 ## 🏅 Journal Publication
 
-This mini project is officially published in a recognized academic journal. You can view the official proof of publication in the attached 📄 [Journal Certificate](./DOCUMENTATION/Journal_Certificate.pdf).
+This mini project is officially published in a recognized academic journal. You can view the official proof of publication in the attached 📄 [Journal Certificate](./DOCUMENTATION/Journal_Certificate.png).
 
 ---
 
